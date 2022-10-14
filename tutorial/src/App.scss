@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+
+    .app{
+        padding: 4rem;
+
+        h1{
+            position: fixed;
+            top: 10px;
+            margin-left: 40px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        h1:hover{
+            color: tomato;
+        }
+
+        .search{
+            position: fixed;
+            top: 10px;
+            left: 50%;
+            z-index: 10;
+        }
+
+        .container{
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+    }
+}

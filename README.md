@@ -1,5 +1,5 @@
 <h1 align = "center">REACT MOVIE APP</h1>
-<p>The React Movie App utilizes the <a href="'http://www.omdbapi.com?">(OMDBAPI)</a>. It displays all availables movies by search and Batman movies as the default homepage. Has the latest movies too.</p>
+<p>The React Movie App utilizes the <a href="'http://www.omdbapi.com?">(OMDB API)</a>. It displays all available movies by search and Batman movies as the default homepage. Has the latest movies too.</p>
 
 <img src="./src/DanFlix.png" alt="homepage"></img>
 

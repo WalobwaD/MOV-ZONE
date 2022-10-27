@@ -4,9 +4,26 @@
 
 <h3 align="center">Cloning and starting the App ...</h3>
 
-<ol>
-    <li>Cloning into the repository</li>
 
-    `git clone {the url to the GitHub repo}`
-    
-</ol>
+<h3>1. Cloning into the repository</h3>
+
+```bash
+git clone {the url to the GitHub repo}
+```
+<h3>2. Open the App directory</h3>
+
+```bash
+cd DanFlix-REACT/tutorial
+```
+
+<h3>3. Install all required modules</h3>
+
+```bash
+npm install
+```
+
+<h3>4. Start the app</h3>
+
+```bash
+npm start
+```

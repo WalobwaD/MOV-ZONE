@@ -26,7 +26,7 @@ const App = () => {
         <>
             <div className="app">
                 <h1>
-                    DanFlix
+                    MOV-ZONE
                 </h1>
 
                 <div className="search">
